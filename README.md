@@ -17,8 +17,6 @@
   width="30%"
 />
 
----
-
 <span>
   <a href="https://github.com/ric-v">
     <img src="github.png" width="8%" align="center" />
@@ -30,7 +28,5 @@
     <img src="https://www.codementor.io/m-badges/ricv/find-me-on-cm-b.svg" alt="Codementor badge" width="20%" align="center">
   </a>
 </span>
-
----
 
 ***Code.Share.Prosper***
