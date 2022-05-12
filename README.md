@@ -1,8 +1,8 @@
-# Hi  🖖, this is ric-v's code brewery 🍵 [<img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="96">](https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif) 
+# Hi  🖖, this is ric-v's code brewery 🍵 [<img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="96">](https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif)
 
-![Github](./github.png) ![Github](./linkedin.png)
+[![Github](./github.png)](https://github.com/ric-v) [![Github](./linkedin.png)](https://www.linkedin.com/in/ric-v)
 
-Find me on codementor 🤞 ![Codementor](https://www.codementor.io/m-badges/ricv/find-me-on-cm-b.svg)
+Find me on codementor 🤞 [![Codementor](https://www.codementor.io/m-badges/ricv/find-me-on-cm-b.svg)](https://www.codementor.io/@ricv)
 
 ## Github stats
 
