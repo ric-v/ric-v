@@ -29,4 +29,7 @@
   </a>
 </span>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ric-v&hide=php)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ric-v&theme=nord&show_icons=true)
+
 ***Code.Share.Prosper***
