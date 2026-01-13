@@ -1,11 +1,55 @@
-# Hi  🖖, this is ric-v's code brewery 🍵 [<img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="96">](https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif)
+<div align="center">
 
-[![Github](./github.png)](https://github.com/ric-v) [![Github](./linkedin.png)](https://www.linkedin.com/in/ric-v)
+# Richie Varghese
 
-Find me on codementor 🤞 [![Codementor](https://www.codementor.io/m-badges/ricv/find-me-on-cm-b.svg)](https://www.codementor.io/@ricv)
+### Software Engineer | Open Source Contributor
 
-## Github stats
+[![Profile Views](https://komarev.com/ghpvc/?username=ric-v&color=blue&style=flat-square)](https://github.com/ric-v)
+[![GitHub followers](https://img.shields.io/github/followers/ric-v?label=Followers&style=flat-square)](https://github.com/ric-v?tab=followers)
+[![Total Stars](https://img.shields.io/github/stars/ric-v?label=Stars&style=flat-square)](https://github.com/ric-v)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ric-v&hide=php&theme=nord) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ric-v&theme=nord&show_icons=true)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-***Code.Share.Prosper***
+</div>
+
+## 👤 About
+
+I design and build high-throughput backend systems—mostly cloud-native, occasionally opinionated.
+I enjoy working close to databases, distributed systems, and products that break under real load.
+Currently obsessed with performance bottlenecks, clean UIs, and reducing unnecessary abstractions.
+
+**🔗 Connect:** [GitHub](https://github.com/ric-v) • [LinkedIn](https://www.linkedin.com/in/ric-v)
+
+💬 Open to discussing backend architecture, databases, or interesting OSS ideas.
+
+
+## 🛠️ Technical Stack
+
+**Core**: Go, PostgreSQL, Distributed Systems  
+**Cloud**: AWS, Azure, Docker, Kubernetes  
+**Secondary**: TypeScript, Python, Redis, MongoDB
+
+### Engineering Beliefs
+- Boring systems scale best
+- Databases deserve respect
+- Observability > guesswork
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ric-v&show_icons=true&theme=nord&hide_border=true&count_private=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ric-v&layout=compact&theme=nord&hide_border=true&hide=php)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ric-v&theme=nord&hide_border=true)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+</div>
