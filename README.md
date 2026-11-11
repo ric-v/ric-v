@@ -37,7 +37,7 @@ Currently obsessed with performance bottlenecks, clean UIs, and reducing unneces
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| **Pacpad** | Terminal app manager for Arch Linux: browse, search and manage packages, web apps and TUI launchers. `Rust` | [repo](https://github.com/ric-v/pacpad) |
+| **Pacpad** | Terminal app manager for Arch Linux: browse, search and manage packages, web apps and TUI launchers. `Rust` | [site](https://pacpad.astrx.dev) · [repo](https://github.com/ric-v/pacpad) |
 | **And the time is…** | Current time across time zones at a glance, and compare any zone against your own. `Next.js` | [repo](https://github.com/dev-asterix/and-the-time-is) · [timeis.astrx.dev](https://timeis.astrx.dev) |
 | **Drawdown** | Daily portfolio tracker and trading journal. `Next.js` | [repo](https://github.com/dev-asterix/drawdown) · [drawdown.astrx.dev](https://drawdown.astrx.dev) |
 | **Asterix OS** | Desktop-OS-themed developer portfolio with windows, a terminal and a live GitHub file explorer. `Next.js` | [repo](https://github.com/ric-v/dev-asterix-portfolio) · [astrx.dev](https://astrx.dev) |
